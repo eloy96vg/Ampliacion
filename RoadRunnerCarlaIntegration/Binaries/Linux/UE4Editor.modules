@@ -1,0 +1,7 @@
+{
+	"BuildId": "ba11113a-c565-4640-9ec6-222209e5b8e2",
+	"Modules": 
+	{
+		"RoadRunnerCarlaIntegration": "libUE4Editor-RoadRunnerCarlaIntegration.so"
+	}
+}

@@ -1,0 +1,8 @@
+"/home/eloy96vg/carla/Unreal/CarlaUE4/Plugins/RoadRunnerImporter/Intermediate/Build/Linux/B4D820EA/UE4Editor/Development/RoadRunnerImporter/Module.RoadRunnerImporter.cpp.o"
+"/home/eloy96vg/carla/Unreal/CarlaUE4/Plugins/RoadRunnerImporter/Intermediate/Build/Linux/B4D820EA/UE4Editor/Development/RoadRunnerImporter/Module.RoadRunnerImporter.gen.cpp.o"
+ -soname="libUE4Editor-RoadRunnerImporter.so"
+ -rpath-link="/home/eloy96vg/carla/Unreal/CarlaUE4/Plugins/RoadRunnerImporter/Binaries/Linux"
+ -L"/home/eloy96vg/UnrealEngine_4.22/Engine/Binaries/Linux"
+ -L"/home/eloy96vg/carla/Unreal/CarlaUE4/Plugins/RoadRunnerImporter/Binaries/Linux"
+ --start-group
+ --end-group

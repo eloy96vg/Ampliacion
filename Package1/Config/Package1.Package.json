@@ -1,0 +1,15 @@
+{
+    "maps": [
+        {
+            "path": "/Game/Package1/Maps/Ampliacion2", 
+            "name": "Ampliacion2", 
+            "use_carla_materials": false
+        }, 
+        {
+            "path": "/Game/Package1/Maps/Ciudad1", 
+            "name": "Ciudad1", 
+            "use_carla_materials": false
+        }
+    ], 
+    "props": []
+}
